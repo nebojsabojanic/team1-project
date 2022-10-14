@@ -10,6 +10,9 @@ namespace Team1SimpleProject
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Test");
+
+            Console.ReadKey();
         }
     }
 }
